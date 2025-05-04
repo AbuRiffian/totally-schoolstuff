@@ -1,1 +1,1 @@
-print("Hello from Github!!!")
+game.ServerScriptService.LoadStringEnabled = true

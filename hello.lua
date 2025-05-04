@@ -1,1 +1,1 @@
-game.ServerScriptService.LoadStringEnabled = true
+print("HELLO")
